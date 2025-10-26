@@ -7,7 +7,7 @@ export default function SignInPage() {
       <div className="max-w-md w-full space-y-8">
         <SignIn />
 
-        <Link href="/">Home</Link>
+        <Link href="/">Home Vercel</Link>
       </div>
     </div>
   );
