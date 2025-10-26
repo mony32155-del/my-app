@@ -7,7 +7,7 @@ export default function SignInPage() {
       <div className="max-w-md w-full space-y-8">
         <SignIn />
 
-        <Link href="/"> Go Back Home</Link>
+        <Link href="/">Home</Link>
       </div>
     </div>
   );
